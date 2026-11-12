@@ -1,0 +1,5 @@
+# KUK İnşaat — https://www.kukinsaat.com
+User-agent: *
+Allow: /
+
+Sitemap: https://www.kukinsaat.com/sitemap.xml
